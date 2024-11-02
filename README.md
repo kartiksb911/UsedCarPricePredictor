@@ -27,4 +27,5 @@ This project implements a machine learning model to predict the selling prices o
 [![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kartiksb911)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-bhardwaj-07b7282b7/)
 
-
+## EDA
+![Image Alt](https://github.com/kartiksb911/UsedCarPricePredictor/tree/439e02e07649285a75afc64d71779eadcd1ac061/static)
