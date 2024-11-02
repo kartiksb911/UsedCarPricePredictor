@@ -1,5 +1,5 @@
-
 # Used Car Price Predictor
+![Image Alt](https://github.com/kartiksb911/UsedCarPricePredictor/blob/7f8274a7e154545e3470ec4e9d191afda5cde176/mycar.jpg)
 ## Introduction
 This project implements a machine learning model to predict the selling prices of used cars based on various features. By leveraging historical data on car specifications, mileage, and other relevant factors, the model aims to provide accurate price estimates, helping both buyers and sellers make informed decisions in the used car market.
 
@@ -26,7 +26,6 @@ This project implements a machine learning model to predict the selling prices o
 ## 🔗 Links
 [![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kartiksb911)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-bhardwaj-07b7282b7/)
-
 ## EDA
 ![Image Alt](https://github.com/kartiksb911/UsedCarPricePredictor/blob/3bf10064baed29c503a6c974472b72db3aafcbfb/static/Univariate_Categorcal.png)
 ![Image Alt](https://github.com/kartiksb911/UsedCarPricePredictor/blob/3bf10064baed29c503a6c974472b72db3aafcbfb/static/corr.png)
